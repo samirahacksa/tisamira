@@ -1,16 +1,18 @@
-### Hi there 👋
+# System.out.println("Hello, World!");👋
 
-<!--
-**samiradasilva/samiradasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*"Ainda que você conviva ou trabalhe em meio ás máquinas, a verdadeira e mais
+ significativa interação continua sendo, a interação humana".* 🤝
 
-Here are some ideas to get you started:
+##### 📫 E-mail: tisamirasilva@gmail.com
+##### 👩‍💼 Linkedin: https://br.linkedin.com/in/samiradasilva
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 *Iniciação de estudos sobre Programação e Inteligência Artificial*
+
+
+🎯 • Missão: Trabalhar a equidade na área da tecnologia.  
+  
+👁️ • Visão: Desenvolver ferramentas digitais que facilitam o acesso à informação 
+para o maior número de pessoas.  
+  
+❤️ • Valores: Criatividade, ética, diversidade, empatia, franqueza, 
+honestidade, inclusão, inovação, lealdade e trabalho em equipe.
