@@ -6,8 +6,6 @@
 ##### 📫 E-mail: tisamirasilva@gmail.com
 ##### 👩‍💼 Linkedin: https://br.linkedin.com/in/samiradasilva
 
-🤖 *Iniciação de estudos sobre Programação e Inteligência Artificial*
-
 
 🎯 • Missão: Trabalhar a equidade na área da tecnologia.  
   
