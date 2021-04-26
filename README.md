@@ -1,7 +1,7 @@
 # System.out.println("Hello, World!");👋
 
-*"Ainda que você conviva ou trabalhe em meio ás máquinas, a verdadeira e mais
- significativa interação continua sendo, a interação humana".* 🤝
+*"Ainda que você conviva ou trabalhe em meio às máquinas, a verdadeira e mais
+ significativa interação continua sendo, a interação humana".* 🤝. (Samira)
 
 ##### 📫 E-mail: tisamirasilva@gmail.com
 ##### 👩‍💼 Linkedin: https://br.linkedin.com/in/samiradasilva
