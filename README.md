@@ -1,7 +1,7 @@
 # System.out.println("Hello, World!");👋
 
 *"Ainda que você conviva ou trabalhe em meio às máquinas, a verdadeira e mais
- significativa interação continua sendo, a interação humana".* 🤝. (Samira)
+ significativa interação continua sendo a interação humana".* 🤝. (Samira)
 
 🎯 • Missão: Trabalhar a equidade na área da tecnologia.  
   
