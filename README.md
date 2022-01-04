@@ -3,10 +3,6 @@
 *"Ainda que você conviva ou trabalhe em meio às máquinas, a verdadeira e mais
  significativa interação continua sendo, a interação humana".* 🤝. (Samira)
 
-##### 📫 E-mail: tisamirasilva@gmail.com
-##### 👩‍💼 Linkedin: https://br.linkedin.com/in/samirasilva
-
-
 🎯 • Missão: Trabalhar a equidade na área da tecnologia.  
   
 👁️ • Visão: Desenvolver ferramentas digitais que facilitam o acesso à informação 
