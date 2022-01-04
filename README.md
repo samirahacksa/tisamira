@@ -8,8 +8,7 @@
 👁️ • Visão: Desenvolver ferramentas digitais que facilitam o acesso à informação 
 para o maior número de pessoas.  
   
-❤️ • Valores: Criatividade, ética, diversidade, empatia, franqueza, 
-honestidade, inclusão, inovação, lealdade e trabalho em equipe.
+❤️ • Valores: Criatividade, ética, diversidade, empatia, honestidade, inclusão, inovação, lealdade e trabalho em equipe.
 
 
 <div align="center">
